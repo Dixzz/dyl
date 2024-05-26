@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>834734170900-q3jb2klem2e0mmdqv5lcor9dj0rqma1t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.834734170900-q3jb2klem2e0mmdqv5lcor9dj0rqma1t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>834734170900-7usmmvd24i642tkn5roivn9515g6l7ug.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkuOXcVHTHhf__sqZ2z3IOy91APYdsoQw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>834734170900</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.digitaldaksh.designyourlife</string>
+	<key>PROJECT_ID</key>
+	<string>design-your-life-9ced7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>design-your-life-9ced7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:834734170900:ios:6181c6a9b48f8cb91e9801</string>
+</dict>
+</plist>
